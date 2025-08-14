@@ -1,5 +1,5 @@
 ## 👋 Hi! I'm NovusTheory
-<img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&duration=3000&pause=1000&color=954DFA&background=1F1F1F00&vCenter=true&width=870&separator=%3C&lines=println!(%22full+stack+developer%22);%3CConsole.WriteLine(%22c%23+enthusiast%22);%3Cconsole.log(%22creator+of+things%22);%3Cprint(%22the+best+pet+is+a+%F0%9F%90%88%22" />
+<img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&duration=3000&pause=1000&color=954DFA&background=1F1F1F00&vCenter=true&width=870&separator=%3C&lines=println!(%22full+stack+developer%22);%3CConsole.WriteLine(%22c%23+enthusiast%22);%3Cconsole.log(%22creator+of+things%22);%3Cprint(%22the+best+pet+is+a+%F0%9F%90%88%22)" />
 
 <span>
   <picture>
